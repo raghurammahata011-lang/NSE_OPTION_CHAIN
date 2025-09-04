@@ -8,5 +8,5 @@ requests
 kaleido
 yfinance
 matplotlib
-talib
+TA-Lib
 scipy
